@@ -1,6 +1,6 @@
-# y
+# vue-location-app
 
-> this is a vue-test project with firebase
+> This is a Test project built with Vue and Firebase
 
 ## Build Setup
 
